@@ -35,3 +35,15 @@
 <img src="https://raw.githubusercontent.com/diwakarj-ayavarapu/diwakarj-ayavarapu/output/snake.svg" alt="Snake animation" />
 
 ###
+<h3 align="center">🙏 Thanks for visiting!</h3>
+
+<p align="center">
+  <i>"Crafting code, building dreams."</i><br>
+  <b>Let's connect and collaborate on something amazing.</b>
+</p>
+
+###
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" height="28" />
+  <img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white" height="28" />
+</p>
