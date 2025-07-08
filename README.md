@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h4 align="left">✨ Hello World! I’m **[J.Diwakar]**, a student on a journey to transform ideas into digital reality.  <br>🌍 Based in **[Vijayawada]**, exploring tech with curiosity .<br><br>🔧 Tech I'm currently loving: **[React | Node.js | MongoDB | Python | TensorFlow]**  <br>📚 Passionate about clean code, meaningful UX, and lifelong learning.<br><br>🧠 “Code is my canvas, logic is my brush.”<br><br>💬 Let’s build cool stuff together — check out my pinned projects below! 🚀</h4>
+<h4 align="left">✨ Hello World! I’m J.Diwakar, a student on a journey to transform ideas into digital reality.  <br>🌍 Based in Vijayawada, exploring tech with curiosity .<br><br>🔧 Tech I'm currently loving: **[React | Node.js | MongoDB | Python | TensorFlow]**  <br>📚 Passionate about clean code, meaningful UX, and lifelong learning.<br><br>🧠 “Code is my canvas, logic is my brush.”<br><br>💬 Let’s build cool stuff together — check out my pinned projects below! 🚀</h4>
 
 ###
 
