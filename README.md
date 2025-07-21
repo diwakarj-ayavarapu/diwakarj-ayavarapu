@@ -22,9 +22,7 @@
   <a href="https://github.com/diwakarj-ayavarapu">
     <img src="https://github-readme-stats.vercel.app/api?username=diwakarj-ayavarapu&show_icons=true&theme=dark" alt="Your GitHub Stats" />
   </a>
-  <a href="https://github.com/diwakarj-ayavarapu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarj-ayavarapu&theme=dark" alt="Your GitHub Streak" />
-  </a>
+  
 </p>
 
 <p align="center">
