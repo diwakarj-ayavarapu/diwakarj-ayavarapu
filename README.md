@@ -1,11 +1,18 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jayavarapu%20Diwakar-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Jayavarapu Diwakar" />
+  <img src="https://img.shields.io/badge/Jayavarapu%20Diwakar-24292E?style=for-the-badge&logo=github&logoColor=white" alt="[Jayavarapu Diwakar](jdiwakar.netlify.app)" />
 </p>
 
 ###
-<h4 align="left">✨ Hello World! I'm a student on a journey to transform ideas into digital reality.  <br>🌍 Based in Vijayawada, exploring tech with curiosity .<br><br>🔧 Tech I'm currently loving: **[React | Node.js | MongoDB | Python | TensorFlow]**  <br>📚 Passionate about clean code, meaningful UX, and lifelong learning.<br><br>🧠 "Coding dreams and shared schemes — see what I'm working on! 🚀"”<br><br>💬 Let’s build cool stuff together — check out my pinned projects below! 🚀</h4>
+# 👋 Hi, I'm **JAYAVARAPU DIWAKAR**
+
+- 👨‍💻 Full-Stack Developer based in vijayawada, India.  
+- 📫 How to reach me: [diwakarjayavarapu@gmail.com](mailto:diwakarjayavarapu@gmail.com)  
+- 🧠 Crafted the  App, loved by **10000+** savvy learners on the [Play Store]  
+- ✨ Star-studded projects like [Flipkart]and [Instagram](https://github.com/diwakar_jayavarapu/Instagram), shining bright with **800+ stars**  
+- 🔗 Rocking a cool **500+ connections** on [LinkedIn](https://www.linkedin.com/in/jayavarapu-diwakar/), let's connect!  
+- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [Portfolio](jdiwakar.netlify.app)! 💻 ❤️
 
 ###
 
