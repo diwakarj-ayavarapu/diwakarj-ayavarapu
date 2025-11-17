@@ -27,17 +27,30 @@
 
 <p align="center">
   <a href="https://github.com/diwakarj-ayavarapu">
-    <img src="https://github-readme-stats.vercel.app/api?username=diwakarj-ayavarapu&show_icons=true&theme=dark" alt="Your GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=diwakarj-ayavarapu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   </a>
-  
 </p>
 
 <p align="center">
   <a href="https://github.com/diwakarj-ayavarapu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarj-ayavarapu&layout=compact&theme=light" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarj-ayavarapu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
- My Known Languages
+
+<p align="center">
+  <a href="https://github.com/diwakarj-ayavarapu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarj-ayavarapu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  </a>
+</p>
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,fastapi,mongodb,mysql,sqlite,git,github,linux,vscode,figma" />
+</p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
