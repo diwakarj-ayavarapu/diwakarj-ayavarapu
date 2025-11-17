@@ -12,7 +12,7 @@
 - 🧠 Crafted the  App, loved by **10000+** savvy learners on the [Play Store]  
 - ✨ Star-studded projects like [Flipkart]and [Instagram](https://github.com/diwakar_jayavarapu/Instagram), shining bright with **800+ stars**  
 - 🔗 Rocking a cool **500+ connections** on [LinkedIn](https://www.linkedin.com/in/jayavarapu-diwakar/), let's connect!  
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [Portfolio](https://jdiwakar.netlify.app/)! 💻 ❤️
+- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [Portfolio] 💻 ❤️
 
 ###
 
