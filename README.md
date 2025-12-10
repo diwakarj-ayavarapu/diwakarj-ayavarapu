@@ -1,99 +1,100 @@
 <br clear="both">
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Jayavarapu%20Diwakar-24292E?style=for-the-badge&logo=github&logoColor=white" alt="[Jayavarapu Diwakar](https://jdiwakar.netlify.app/)" />
+  <img src="https://img.shields.io/badge/Jayavarapu%20Diwakar-24292E?style=for-the-badge&logo=github&logoColor=white" alt="Jayavarapu Diwakar" />
 </p>
 
-###
-# 👋 Hi, I'm **JAYAVARAPU DIWAKAR**
+<h1 align="center">👋 Hi, I'm <span style="color:#00A3FF;">JAYAVARAPU DIWAKAR</span></h1>
 
-- 👨‍💻 Full-Stack Developer based in vijayawada, India.  
-- 📫 How to reach me: [diwakarjayavarapu@gmail.com](mailto:diwakarjayavarapu@gmail.com)  
-- 🧠 Crafted the  App, loved by **10000+** savvy learners on the [Play Store]  
-- ✨ Star-studded projects like [Flipkart]and [Instagram](https://github.com/diwakar_jayavarapu/Instagram), shining bright with **800+ stars**  
-- 🔗 Rocking a cool **500+ connections** on [LinkedIn](https://www.linkedin.com/in/jayavarapu-diwakar/), let's connect!  
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [Portfolio] 💻 ❤️
+<p align="center">
+  <b>Gen AI Developer • LLM Engineer • Full-Stack Developer</b>
+</p>
 
-###
+---
+
+## 🚀 About Me
+
+- 👨‍💻 Full-Stack & Gen AI Developer based in Vijayawada, India  
+- 🤖 Skilled in **LLMs, RAG, AI Agents, Vector DBs, Prompt Engineering**  
+- 📱 Built apps loved by **10,000+ users** on Play Store  
+- ⭐ Created top-tier clones like **Flipkart** and **Instagram (800+ stars)**  
+- 🔗 Growing network of **500+ LinkedIn connections**  
+- ❤️ Passionate about Digital Innovation & Scalable AI Systems  
+- 🌐 Explore my digital world on my **Portfolio**  
+
+---
+
+## 📬 Connect With Me
 
 <div align="center">
   <a href="mailto:diwakarjayavarapu@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&style=for-the-badge&logoColor=white" height="35" />
   </a>
-  <a href="https://www.linkedin.com/in/jayavarapu-diwakar-1b5109355/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <a href="https://www.linkedin.com/in/jayavarapu-diwakar/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&style=for-the-badge&logoColor=white" height="35" />
   </a>
 </div>
 
+---
+
+## 📊 GitHub Performance
+
 <p align="center">
   <a href="https://github.com/diwakarj-ayavarapu">
-    <img src="https://github-readme-stats.vercel.app/api?username=diwakarj-ayavarapu&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=diwakarj-ayavarapu&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/diwakarj-ayavarapu">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarj-ayavarapu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=diwakarj-ayavarapu&theme=tokyonight&hide_border=true" height="170" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/diwakarj-ayavarapu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarj-ayavarapu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwakarj-ayavarapu&layout=compact&theme=tokyonight&hide_border=true" height="170" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools
 
+### 🧠 Gen AI / LLM / Machine Learning Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/HuggingFace-FCC72B?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/VectorDB-Pinecone-0A66C2?style=for-the-badge&logo=pinecone&logoColor=white" />
+  <img src="https://img.shields.io/badge/Qdrant-FF6F00?style=for-the-badge&logo=qdrant&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-20232A?style=for-the-badge" />
+</p>
+
+### 💻 Development Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,react,nextjs,nodejs,express,html,css,tailwind,bootstrap,fastapi,mongodb,mysql,sqlite,git,github,linux,vscode,figma" />
 </p>
 
-
+### 🔧 Backend, Databases & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+---
 
-
-###
-Generates a snake game from a github user contributions graph
+## 🐍 GitHub Contribution Snake
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-###
+---
+
 <h3 align="center">🙏 Thanks for visiting!</h3>
 
 <p align="center">
@@ -101,7 +102,6 @@ Generates a snake game from a github user contributions graph
   <b>Let's connect and collaborate on something amazing.</b>
 </p>
 
-###
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg?style=for-the-badge" height="28" />
   <img src="https://img.shields.io/badge/Powered%20by-GitHub%20Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white" height="28" />
